@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431286389 source:/home/sarthak/Desktop/SwarathWorkshop/mycode.cpp
+	"myheader.h"
+
+1431285745 /home/sarthak/Desktop/SwarathWorkshop/myheader.h
+	<iostream>
+	<cmath>
+
